@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from sklearn.impute import SimpleImputer
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OneHotEncoder
-
+ 
 #importing the datashet
 
 #note The dependent variable is the one being trained on,   
